@@ -1,6 +1,18 @@
 # 06F 906 461 B
 
-## Fits
+## Title
+OEM Audi Volkswagen (VW) MAF Mass Air Flow Sensor 06F906461B
+
+## Part Number
+06F 906 461 B
+
+## Type
+Mass Air Flow (MAF) Sensor
+
+## Description
+OEM mass air flow (MAF) sensor for select Audi and Volkswagen models. It measures the amount of air entering the engine so the ECU can calculate fuel delivery and maintain proper performance and drivability.
+
+## Compatibility
 
 - Audi A3 / S3 (2004–2013)
 - Audi A4 / S4 (2008–2012)
